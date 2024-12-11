@@ -1,4 +1,4 @@
-/* место для вашего кода */
+
 .header {
   display: grid;
   grid-template-columns: 1fr 148px 1fr;
@@ -36,7 +36,7 @@
 .header__address {
   place-self: center end;
   font-size: 18px;
-  padding-right: 22px;
+  padding-right: 33px;
   line-height: 24.3px;
   text-underline-offset: 4px;
   font-style: normal;
